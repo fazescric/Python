@@ -54,12 +54,7 @@ def check(lista):
     return stringList, numberList
 
 
-    
-    
 print(check(dati))
-    
-
-print("test commit")
-
+print("test")
 
 
