@@ -51,7 +51,9 @@ def check(lista):
         else:
             pass
         
-    return (f"String list: {stringList}, Number list: {numberList}")
+    return stringList, numberList
+
+
     
     
 print(check(dati))
