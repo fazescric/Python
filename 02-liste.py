@@ -55,6 +55,5 @@ def check(lista):
 
 
 print(check(dati))
-print("test")
 
 
